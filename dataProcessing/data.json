@@ -1,0 +1,1210 @@
+{
+  "data": [
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 1,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 2,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 3,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 4,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 5,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 6,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 7,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 8,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 9,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 10,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 11,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 12,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 13,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 14,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 15,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 16,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 17,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 18,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 19,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 20,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 21,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 22,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 23,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 24,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 25,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 26,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 27,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 28,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 29,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 30,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 31,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 32,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 33,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 34,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 35,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 36,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 37,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 38,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 39,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 40,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 41,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 42,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 43,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 44,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 45,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 46,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 47,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 48,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 49,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 50,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 51,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 52,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 53,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 54,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 55,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 56,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 57,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 58,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 59,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 60,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 61,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 62,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 63,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 64,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 65,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 66,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 67,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 68,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 69,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 70,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 71,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 72,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 73,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 74,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 75,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 76,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 77,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 78,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 79,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 80,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 81,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 82,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 83,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 84,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 85,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 86,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 87,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 88,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 89,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 90,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 91,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 92,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 93,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 94,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 95,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 96,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 97,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 98,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 99,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 100,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 101,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 102,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 103,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 104,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 105,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 106,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 107,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 108,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 109,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 110,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 111,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 112,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 113,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 114,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 115,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 116,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 117,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 118,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 119,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 120,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 121,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 122,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 123,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 124,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 125,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 126,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 127,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 128,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 129,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 130,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 131,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 132,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 133,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 134,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 135,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 136,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 137,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 138,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 139,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 140,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 141,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 142,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 143,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 144,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 145,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 146,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 147,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 148,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 149,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 150,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 151,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 152,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 153,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 154,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 155,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 156,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 157,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 158,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 159,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 160,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 161,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 162,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 163,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 164,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 165,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 166,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 167,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 168,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 169,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 170,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 171,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 172,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 173,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 174,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 175,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 176,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 177,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 178,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 179,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 180,
+      "topic": "A"
+    },
+    {
+      "content": "How can I help you?",
+      "summary": "Introduction",
+      "timestamp": 181,
+      "topic": "A"
+    },
+    {
+      "content": "Can you tell me more about AI?",
+      "summary": "Asking about AI",
+      "timestamp": 182,
+      "topic": "B"
+    },
+    {
+      "content": "AI is the simulation of human intelligence...",
+      "summary": "Explaining AI",
+      "timestamp": 183,
+      "topic": "B"
+    },
+    {
+      "content": "What is the difference between AI and ML?",
+      "summary": "Asking about AI and ML",
+      "timestamp": 184,
+      "topic": "B"
+    },
+    {
+      "content": "AI is a broader concept...",
+      "summary": "Explaining AI vs ML",
+      "timestamp": 185,
+      "topic": "B"
+    },
+    {
+      "content": "How do I get started with AI?",
+      "summary": "Asking about AI resources",
+      "timestamp": 186,
+      "topic": "C"
+    },
+    {
+      "content": "There are many online resources...",
+      "summary": "Sharing AI resources",
+      "timestamp": 187,
+      "topic": "C"
+    },
+    {
+      "content": "What programming languages are used for AI?",
+      "summary": "Asking about programming languages",
+      "timestamp": 188,
+      "topic": "D"
+    },
+    {
+      "content": "Python, Java, and R are popular...",
+      "summary": "Listing programming languages",
+      "timestamp": 189,
+      "topic": "D"
+    },
+    {
+      "content": "Are there any AI frameworks?",
+      "summary": "Asking about AI frameworks",
+      "timestamp": 190,
+      "topic": "D"
+    },
+    {
+      "content": "Yes, TensorFlow and PyTorch...",
+      "summary": "Sharing AI frameworks",
+      "timestamp": 191,
+      "topic": "D"
+    },
+    {
+      "content": "What are the applications of AI?",
+      "summary": "Asking about AI applications",
+      "timestamp": 192,
+      "topic": "B"
+    },
+    {
+      "content": "AI can be used in healthcare...",
+      "summary": "Listing AI applications",
+      "timestamp": 193,
+      "topic": "B"
+    },
+    {
+      "content": "What are some challenges in AI?",
+      "summary": "Asking about AI challenges",
+      "timestamp": 194,
+      "topic": "B"
+    },
+    {
+      "content": "Data privacy and ethical concerns...",
+      "summary": "Discussing AI challenges",
+      "timestamp": 195,
+      "topic": "B"
+    },
+    {
+      "content": "Can you recommend some AI books?",
+      "summary": "Asking about AI books",
+      "timestamp": 196,
+      "topic": "C"
+    },
+    {
+      "content": "Sure, \"Superintelligence\" by Nick Bostrom...",
+      "summary": "Recommending AI books",
+      "timestamp": 197,
+      "topic": "C"
+    },
+    {
+      "content": "What are some AI research areas?",
+      "summary": "Asking about AI research",
+      "timestamp": 198,
+      "topic": "B"
+    },
+    {
+      "content": "Natural language processing...",
+      "summary": "Listing AI research areas",
+      "timestamp": 199,
+      "topic": "B"
+    },
+    {
+      "content": "Thank you for your help!",
+      "summary": "Closing",
+      "timestamp": 200,
+      "topic": "A"
+    }
+  ],
+  "topicLayerMapping": {
+    "A": 3,
+    "B": 2,
+    "C": 1,
+    "D": 0
+  }
+}

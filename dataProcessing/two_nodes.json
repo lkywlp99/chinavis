@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "columns": [
+                "user",
+                "entity"
+            ],
+            "data": [
+                {
+                    "allNodes": {
+
+                    },
+                    "graph": {
+                        "AllBigTopic": ["sudo","ubantu安装","端口问题"],
+                        "AllBigTopicIndex": [0,1,2],
+                        "AllSubTopic": ["sudo定义","sudo权限","sudo授予"],
+                        "nodes": [
+                            {
+                                "id": "0",
+                                "labels": [
+                                    "用户sudo权限授予"
+                                ],
+                                "properties": {},
+                                "BigTopic": ["sudo","ubantu安装","端口问题"],
+                                "BigTopicIndex": [0,1,2],
+                                "BigTopicSimilarity": [0.8,0.7,0.6],
+                                "SubTopic": ["sudo定义","sudo权限","sudo授予"],
+                                "SubTopicIndex": [0,1,2],
+                                "SubTopicSimilarity": [0.8,0.4],
+                                "Question": "ubuntu怎么授予用户sudo权限",
+                                "Answer": "在Ubuntu上授予用户sudo权限可以通过以下步骤完成：以root用户身份登录Ubuntu系统。执行以下命令创建一个新用户，并设置密码：Copy codeadduser username\n其中，username为要创建的新用户名。执行以下命令将新用户添加到sudo用户组：Copy codeusermod -aG sudo username\n确认用户已被添加到sudo组：bashCopy codeid username"
+                            },
+                            {
+                                "id": "1",
+                                "labels": [
+                                    "sudo定义"
+                                ],
+                                "properties": {},
+                                "BigTopic": ["sudo","ubantu安装"],
+                                "BigTopicIndex": [0,1],
+                                "BigTopicSimilarity": [0.8,0.7],
+                                "SubTopic": ["sudo定义","sudo授予"],
+                                "SubTopicIndex": [0,2],
+                                "SubTopicSimilarity": [0.8,0.7],
+                                "Question": "Ubuntu unzip解压",
+                                "Answer":"在Ubuntu中，可以使用以下命令来解压zip文件：pythonCopy codeunzip filename.zip\n其中，filename.zip是要解压缩的文件名。执行上述命令后，解压缩的文件将会被提取到当前工作目录。如果要将文件提取到指定的目录中，可以使用以下命令：bashCopy codeunzip filename.zip -d /path/to/directory"
+                            }
+                        ],
+                        "relationships": [
+                            {
+                                "id": "0",
+                                "startNode": "0",
+                                "endNode": "1",
+                                "type": "",
+                                "properties": {
+                                    "weight": 38
+                                }
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "errors": []
+}
